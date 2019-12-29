@@ -1,7 +1,5 @@
 # QoS
-quality of service datasets
-
-We used five data sets, some of which were cited from research, and some were collected by myself.
+We used five QoS data sets in our thesis, some of which were cited from research, and some were collected by myself.
 
 1. The Google Maps dataset was collected by monitoring tool Postman from April 25, 2019 to April 30, 2019. There are six zone response times, and the last column is the average response time.
 2. The WSDREAM is cited from Dr.Zheng's research. http://inpluslab.com/wsdream/
